@@ -1,0 +1,2 @@
+# Viola-Jones
+Este repositório é composto pelo banco de imagens levantado durante a execução do Trabalho de Conclusão de Curso 2, além das principais funções desenvolvidas para o funcionamento do algoritmo implementado.
